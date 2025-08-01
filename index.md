@@ -1,7 +1,7 @@
 ---
+layout: default
 title: Home
 ---
-
 # Welcome to my blog! 
 
 I am planning on writing a lot of gooey thoughts. It's mostly to get out my ideas and improve my thinking.
