@@ -2,5 +2,5 @@ Gemfile
 Gemfile.lock
 _site
 .DS_Store
-_posts/_draft_posts/
+draft_posts/
 .jekyll-cache
