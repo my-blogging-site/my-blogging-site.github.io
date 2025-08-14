@@ -118,13 +118,11 @@ open_epc.make_report(local_authority_name, numberEPC)
 ```
 
 
-    
-![png](/assets/open_bem_report_1_0.png)
-    
+<img src="/assets/open_bem_report_1_0.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 
-
+<img src="/assets/open_bem_report_1_1.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
     
-![png](/assets/open_bem_report_1_1.png)
+
     
 

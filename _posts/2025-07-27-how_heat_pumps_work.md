@@ -7,15 +7,14 @@ Where:
 - W is the work done by the system
 
 A basic diagram of the flow of energy for heat pumps:
-![image](/assets/heat_pump_basic_diagram.png)
+<img src="/assets/heat_pump_basic_diagram.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 The equation for the first law of thermodynamics can be modified for heat pumps:
 - Work is done on the system by a compressor to transfer heat from a cold environment to a hot environment. Therefore, the work term becomes positive: -(-W).
 - At the end of a cycle the heat pump returns to the same state as at the beginning, so the change in internal energy in one cycle is zero: ΔU = 0
 - Qnet = Qcold - Qhot where Qcold is energy from cold environment and Qhot is the heat delivered to hot environment
 
 To get the performance of a heat pump we care about Qhot relative to the W we put in. If we substitute the work equation we found earlier 
-
-![image](/assets/COPhp_basic.png)
+<img src="/assets/COPhp_basic.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 Now we have the equation for the COP of heat pumps let's turn to the second law of thermodynamics. The second law of thermodynamics states **Heat will not spontaneously flow from a lower temperature to a higher temperature.** This means that heat flows from hot to cold unless some energy is inputted which is what a heat pump does.
 
@@ -32,15 +31,14 @@ The Carnot COP is the maximum COP that a heat pump can achieve in a given enviro
 4. **Adiabatic Expansion**: 
     - Gas expands, cooling to the cold environment temperature -> entropy remains constant. Temperature drops
 
-![image](/assets/carnot_hp_cycle.png)
+<img src="/assets/carnot_hp_cycle.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 For a reversible cycle, the net entropy change of the system and environment is zero. This is because the system returns to its initial state after one full cycle, so its net entropy change is zero. **Entropy gained by the environment** equals **entropy lost by the system**.
 
-![image](/assets/carnot_equations.png)
-
+<img src="/assets/carnot_equations.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 We can then put this in the equation we derived earlier to get the Carnot COP.  This is the maximum theoretical efficiency a heat pump can achieve.
-![image](/assets/carnot_hp_equation.png)
+<img src="/assets/carnot_equations.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 In reality, the Carnot COP is hardly achieved due to: 
 - Friction losses in mechanical parts
@@ -72,4 +70,4 @@ We can also understand the heat pumps from the actual components:
  5. **Expansion vessel**
 - The expansion vessel drops the pressure, leading to a drop in temperature. The now low pressure, low temperature liquid repeats the cycle by returning to the evaporator.
 
-![heat pump](/assets/heat_pump_diagram.png)
+<img src="/assets/heat_pump_diagram.png" alt="Alt text" style="max-width: 100%; height: auto;" />    

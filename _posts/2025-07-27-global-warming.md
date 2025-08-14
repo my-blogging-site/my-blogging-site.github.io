@@ -1,14 +1,13 @@
 
 Global warming is the long term effect of the average surface temperature of the earth increasing caused by humans activities such as burning fossil fuels. First, let's find out if the average surface temperature of earth is increasing. The graph below shows how the surface temperature has increased by over 1°C compared to the long term average from 1951-1980. Source: NASA's Goddard Institute for Space Studies. 
-![surface_temp_1](/assets/surface_temp_1.png)
+<img src="/assets/surface_temp_1.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 To be sure, let's find another dataset, the graph below is the global average temperature anomalies compared to the 1901-2000 average. The plot shows how the average surface temperature has increased 1.2-1.4°C in the year 2025 compared to the average. Source of data NOAA National Centers for Environmental information.
-
-![surface_temp_2](/assets/surface_temp_2.png)
+<img src="/assets/surface_temp_2.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 
 Okay, the global surface temperature has definitely has gone up. Are there any other impacts we have noticed in recent years that could be attributed to global warming? The mountain glaciers are melting more rapidly with the increase The graph below shows the ice loss relative to 1970 level. In 2023, the glaciers lost approx 26m of water equivalent. The melting glaciers has caused the mean global sea levels to rise. The change in temperature is having ecological and societal effects too. In 2022, approx 10,000 penguin chicks died due to the ice below them melting away.
 
-![graph_mountainglaciers.png](/assets/graph_mountainglaciers.png)
+<img src="/assets/graph_mountainglaciers.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 
  As the temperature increases, there will be more frequent and intense wildfires and heat waves. While the LA fires in 2025 may not directly caused by global warming, the effects were exacerbated by it. Global warming plays a part in the low moisture in dead plants causing the fire to burn more intensely. This is just one example of many, it is likely there will be more extreme events to come - extreme heat, more flooding, displacement of societies, food and water scarcity. <br>
  
@@ -25,20 +24,20 @@ Our atmosphere protects us from harmful radiation from the Sun and also keeps us
 
 The main culprit for global warming is carbon dioxide. Charles Keeling started taking measurements of Co2 in the air in 1958. The Keeling's curve showed how the Co2 levels has been increasing in recent years. The zigzag behaviour is due to the plants absorbing more co2 in the summer.
 
-![co2_data_mlo.png](/assets/co2_data_mlo.png)
+<img src="/assets/co2_data_mlo.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 But looking at the graph, isn't it increasing from the start? No. Evidence from ice cores shows that co2 never went above 300ppm in the last 20,000 years. 
 
-![ice core](/assets/ice_core.png)
+<img src="/assets/ice_core.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 
 Here is a graph putting these sources together:
 
-![co2 total](/assets/co2_total.png)
+<img src="/assets/co2_total.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 
 You might still say it could be natural increase in co2? No. Scientists have also confirmed that the rising co2 levels based on the isotropic signature left by fossil fuels. 
 
 Carbion dioxide has three isotopes: c12, c13 and c14. Plants have a lower c13/12 ratio than the atmosphere due to the isotopic fractionation during photosynthesis. The isotropic fingerprint then passes from dead plants into the geological record as fossil fuel sources (coal, gas and oil). If the co2 comes from fossil fuels then the c13/12 ratio will become more negative as more of this specific isotope is released and this is exactly what's happening:
 
-![co2 ratio](/assets/co2_ratio.png)
+<img src="/assets/co2_ratio.png" alt="Alt text" style="max-width: 100%; height: auto;" /> 
 
 Okay now we have established that global warming is happening and the main cause is increasing co2 levels - what's the cause for the rising levels? 
 

@@ -15,7 +15,7 @@ Today we will focus on thermal energy otherwise known as Heat, so what is therma
 A major branch in physics called thermodynamics looks at heat, work, temperature, and their relation to energy and entropy. It focuses on how thermal energy is converted to and from other forms of energy and is governed by the four laws of thermodynamics:
 - **Zeroth law of thermodynamics:** if A and C are in equilibrium with B then A and C are also in equilibrium
 - **First law of thermodynamics:** Energy cannot be created or destroyed, it can only be transferred. It is also expressed as: ΔU = Q - W
-![alt text](/assets/first_law_thermodynamics.png)
+<img src="/assets/first_law_thermodynamics.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
  Where ΔU is change in internal energy, Q is heat added to the system, and W is work done by the system.
 
 - **Second law of thermodynamics:**  Heat goes from hot to cold via the three mechanisms: **conduction, convection and radiation** 
@@ -25,7 +25,7 @@ A major branch in physics called thermodynamics looks at heat, work, temperature
 ### The three modes of heat transfer
 ### Conduction
 Conduction is a fundamental mode of heat transfer that occurs when materials are in direct contact. In this process, kinetic energy is transferred from the hotter particles - those with more vibrational energy to adjacent particles with less energy. 
-![alt text](/assets/solid_liquid_gas.png)
+<img src="/assets/solid_liquid_gas.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 **Thermal conductivity** is the ability of a material to transmit heat by conduction. Generally, the order from lowest to highest thermal conductivity is: gases, thermal insulators, liquids, non-metal solids, and metals. Fourier’s law is the governing equation for heat transfer by conduction which says heat flux is proportional to thermal gradient across the material.
 
@@ -33,21 +33,21 @@ Conduction is a fundamental mode of heat transfer that occurs when materials are
 Convection is the mechanism of heat transfer due to the movement of particles and the random collision between particles due to the movement. There are two main types of convection:
 1. **Natural convection:** Where the particles move due to a natural process like buoyancy.
 2. **Forced convection:** Where particles move due to a device like a fan or a pump.
-   ![alt text](/assets/liquid_movement.png)
+<img src="/assets/liquid_movement.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 A radiator warms up due to hot water being passed through the pipework by a pump from the boiler, this is an example of forced convection. The radiator then transfers heat to the air from the hot surface on the radiator. As the temperature of air near the radiator increases the density decreases and the air rises due to buoyancy, this is an example of natural convection.
-    ![alt text](/assets/forced_convection.png)
+<img src="/assets/forced_convetion.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 The rate of heat transfer is described by Newton’s law of cooling. The convective heat transfer coefficient from lowest to highest is: natural convection in gasses, natural convection in liquids and forced convection in gases and liqiuids.
-   ![alt text](/assets/newton_cooling.png)
+<img src="/assets/newton_cooling.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 
 ### Radiation
 When particles with energy above absolute zero energy move electromagnetic waves (EM) waves are released, this is called thermal radiation.
-![alt text](/assets/radiation.png)
+<img src="/assets/radiation.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 In reality, some bodies are absorbed, transmitted and reflected. To capture the surface property of a material, emissivity is used in the formula.
-![alt text](/assets/emissivity.png)
+<img src="/assets/emissivity.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 Sources:
 Building Physics by Marko Pinterić

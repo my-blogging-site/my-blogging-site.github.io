@@ -26,7 +26,7 @@ universe.
 A cool animation from the Big Bang to current time --- click
 [here](https://www.youtube.com/watch?v=ZSt9tm3RoUU).
 
-![](/assets/big_bang.png)
+<img src="/assets/big_bang.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 ## Formation of the Earth
 
@@ -59,7 +59,7 @@ A cool animation from the Big Bang to current time --- click
 -   **Approximately 10,000 years ago:** Human civilization began and the
     Ice Ages ended.
 
-![](/assets/earth_form.png)
+<img src="/assets/earth_form.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 A very cool video showing humanity's spread throughout the world ---
 click [here](https://www.youtube.com/watch?v=ymI5Uv5cGU4).
@@ -78,7 +78,7 @@ formed, including:
 -   Ancient Rome
 -   Ancient Peru
 
-![](/assets/1_Timeline_TemperatureVsCivilization.jpg)
+<img src="/assets/1_Timeline_TemperatureVsCivilization.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 ### Notable Empires Through Human Civilization
 

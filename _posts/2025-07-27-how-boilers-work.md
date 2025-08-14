@@ -23,4 +23,4 @@
 8. Flue
     - Cold exhaust gases are vented through the flue pipe
 
-![gas and oil boilers](/assets/boiler_diagram.png)
+<img src="/assets/boiler_diagram.png" alt="Alt text" style="max-width: 100%; height: auto;" />    

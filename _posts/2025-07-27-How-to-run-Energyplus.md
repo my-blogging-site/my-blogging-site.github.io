@@ -13,7 +13,7 @@ Where
 - the optional -r command will generate a CSV file which post processess the main .eso file.
 
 If it runs successfully, it will show something like this in the terminal:<br>
-![energy plus run](/assets/energy_plus_runs.png)
+<img src="/assets/energy_plus_runs.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 
 - Let's look at the input file's main sections:

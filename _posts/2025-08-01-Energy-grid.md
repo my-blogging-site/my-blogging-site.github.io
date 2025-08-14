@@ -23,7 +23,7 @@ Energy source: gas, electricity
 The services sector uses energy in  HVAC, lighting, ICT (information and communication technology), electronics and refrigeration. <br>
 Energy source: gas, electricity
 
-![Energy mix.png](/assets/energy_mix.png)
+<img src="/assets/energy_mix.png" alt="Alt text" style="max-width: 100%; height: auto;" />    
 
 From the different sectors we can see the main energy sources are Electricity, gas and oil. The electricity is split approximately equally between domestic, industrial and service sector.  Gas is the dominant source for domestic heating in the UK.
 
