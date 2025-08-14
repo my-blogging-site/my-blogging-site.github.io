@@ -59,17 +59,31 @@ Algorithmns are like recipes. They give you instructions on what to do. When you
 write any program, you are writing algoritmns first then converting them into
 code for the computer to run.
 
-Computational thinking: thinking how a computer thinks.
-TODO:
-- decomposition:
-- pattern recogition
-- abstraction
-- algorithm design
+Programming languages
+Scripting languages
+- the code sits in the way it's written and the computer it's run on takes it
+  and interprets it. 
+
+Compiled language
+The code is compiled first into an exe file which is then used on the
+destination computer. The compiler does a big find and replace into smaller bits
+that the computer can understand. The compiler is done for speicific operating
+systems. That means exe can run on some OS but not others. Interpreted languages
+do not sufer from this since they have not been encoded yet. 
+
+Query languge
+- used to interact with databases e.g. SQL
+
+Markup language
+- HTML
+- XML
+
 
 Programming fundamentals
 - for loops, while loops
 - conditional statements
 - functions
+
 
 Programming tips
 - write a spec
